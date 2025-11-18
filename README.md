@@ -27,3 +27,6 @@ We also identified three properties with sale dates in the 1900s, which were sig
 
 Together, these allow for clearer insights into property desirability, valuation accuracy, and overall market dynamics.
 
+
+
+
