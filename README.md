@@ -29,7 +29,7 @@ Together, these allow for clearer insights into property desirability, valuation
 
 # 📊 DASHBOARD 1 — Town Value Trends Over Time 
 ### Dashboard 1 Screenshot
-(Insert dashboard 1 image here)
+![Dashboard 1](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/346ae30de769c7c0d1a635516e9f3f70f7aeb421/dashboard%201%20.png)
 
 ## Visual 1 Visual 1 — Statewide Median Sale Price (Scorecard)
 ![Dash 1 Vis 1](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/b96df1481d3ae12a07e4b709bcdcf027c37dad0f/Dash%201%20Vis%201.png)
@@ -67,6 +67,7 @@ This heatgrid visualizes median sale values for each town across each year, with
 
 # 📊 DASHBOARD 2 — Property Type & Assessment Accuracy (5 Visuals)
 ### Dashboard 2 Screenshot
+![Dashboard 2](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/346ae30de769c7c0d1a635516e9f3f70f7aeb421/dash%202.png)
 
 ## Visual 1 — Residential Type Sales Count
 ![D2 Visual 1](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/e0a8af246020625d88fa150e2942ec86e069da9c/D2%20Vis%201.png)
