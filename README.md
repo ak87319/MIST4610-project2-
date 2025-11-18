@@ -61,24 +61,28 @@ This heatgrid visualizes median sale values for each town across each year, with
 
 ## Visual 1 — Residential Type Sales Count
 ![D2 Visual 1](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/e0a8af246020625d88fa150e2942ec86e069da9c/D2%20Vis%201.png)
+
+
 This visualization displays how many properties were sold for each residential subtype (such as single-family homes, condos, and multi-family homes). It clearly shows that single-family homes dominate the Connecticut housing market, followed by condominiums and smaller multi-family units. This pattern reflects buyer preference, zoning composition, and the overall distribution of housing stock across the state. The large volume of single-family home sales indicates that most residential real estate activity revolves around traditional suburban-style housing. For policymakers, this suggests that changes in zoning, development planning, or tax assessment policies should prioritize single-family housing. For investors, this provides insight into the property types with the highest turnover and the greatest market demand. Understanding the distribution of sales also helps contextualize later visualizations on assessment accuracy and property value relationships.
 
 ## Visual 2 — Median Sales Ratio by Property Type
-(insert visual 2 here)
+![Dash 2 Vis 2](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/ba0c1e47ddb5cede568184f61b61374582deeffd/Dash%202%20Vis%202.png)
 
 This visualization compares median sales ratios across all major property types. The sales ratio is calculated as sale price divided by assessed value, meaning values below 1 indicate that properties typically sell for more than their assessment, while values near 1 indicate accurate assessments. This chart reveals which property types are systematically undervalued or overvalued by municipal assessment systems. For example, certain property types like commercial or public utility properties may show very low ratios, signaling chronic undervaluation. Residential properties may show more stability but still indicate slight undervaluation. This visualization matters because valuation accuracy directly impacts tax fairness, municipal budgeting, and real estate investment behavior. If some property categories show large deviations from their assessed values, it could signal the need for reassessment or policy reform. Investors may use this insight to identify undervalued property types with potential for strong returns.
 
 ## Visual 3 — Sales Ratio by Town and Year (Heatgrid)
-(insert visual 3 here)
+![Dash 2 Vis 3](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/ba0c1e47ddb5cede568184f61b61374582deeffd/Dash%202%20vis%203.png)
+
+
 This heatgrid displays assessment accuracy for each town across each year, using the median sales ratio as the measurement. Darker colors indicate ratios closer to or above 1 (accurate or slightly over-assessed), while lighter colors indicate undervaluation. This visualization helps identify towns that consistently under-assess homes relative to their market value, as well as towns whose assessment accuracy fluctuates between years. These patterns can reveal systematic issues in local tax assessment practices, shifting market conditions, or unique local characteristics affecting sale prices. For example, towns with persistently lighter shades may have outdated assessments failing to reflect growing market demand. Meanwhile, towns with darker consistent shades are valuing homes more accurately. This helps municipalities improve tax fairness and informs property owners about potential discrepancies in their assessments.
 
 ## Visual 4 — Assessed Value vs Sale Price (Scatter Plot)
-(insert visual 4 here)
+![Dash 2 Vis 4](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/ba0c1e47ddb5cede568184f61b61374582deeffd/dash%202%20vis%204.png)
 
 This scatter plot compares each town’s median assessed value to its median sale value, with each point representing a town. Ideally, points should fall along a 45-degree line where assessed values equal sale prices. Towns above the line have properties that routinely sell for more than their assessed value, indicating undervaluation. Towns on the line have accurate assessments, while towns below the line (if any) would indicate overvaluation. This visualization is important because it allows us to directly assess how fair and accurate municipal property valuations are across towns. It also illustrates how market behavior diverges from tax records, highlighting regions where housing demand outpaces government assessments. For investors, this chart shows where market value significantly exceeds assessed value, signaling high-demand areas. For policymakers, it highlights where reassessment could improve tax fairness.
 
 ## Visual 5 — Sales Ratio Over Time by Property Type (Line Chart)
-(insert visual 5 here)
+![Dash 2 Vis 5](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/ba0c1e47ddb5cede568184f61b61374582deeffd/Dash%202%20vis%205.png)
 
 This visualization tracks how assessment accuracy changes over time for each major property type. Residential types generally remain below 1, indicating consistent undervaluation but relatively stable year-to-year patterns. However, some property types—especially commercial, public utility, and vacant land—show significant volatility, with sharp increases or decreases across certain years. These fluctuations can result from changes in market conditions, small sample sizes, or unique factors affecting specific property sectors. Understanding the long-term stability or instability of each property type’s assessment accuracy is critical for tax equity and municipal planning. Investors can also use this information to evaluate the reliability of assessed values for different property types. If a type shows increasing deviation from 1 over time, it signals that assessments are becoming less reflective of market trends, warranting further investigation.
 
