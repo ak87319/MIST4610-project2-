@@ -60,7 +60,7 @@ This heatgrid visualizes median sale values for each town across each year, with
 ### Dashboard 2 Screenshot
 
 ## Visual 1 — Residential Type Sales Count
-(dashboard 2 visual 1)
+![D2 Visual 1](https://raw.githubusercontent.com/ak87319/MIST4610-project2-/e0a8af246020625d88fa150e2942ec86e069da9c/D2%20Vis%201.png)
 This visualization displays how many properties were sold for each residential subtype (such as single-family homes, condos, and multi-family homes). It clearly shows that single-family homes dominate the Connecticut housing market, followed by condominiums and smaller multi-family units. This pattern reflects buyer preference, zoning composition, and the overall distribution of housing stock across the state. The large volume of single-family home sales indicates that most residential real estate activity revolves around traditional suburban-style housing. For policymakers, this suggests that changes in zoning, development planning, or tax assessment policies should prioritize single-family housing. For investors, this provides insight into the property types with the highest turnover and the greatest market demand. Understanding the distribution of sales also helps contextualize later visualizations on assessment accuracy and property value relationships.
 
 ## Visual 2 — Median Sales Ratio by Property Type
